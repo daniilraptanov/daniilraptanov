@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Student in NURE, currently learning computer science and mathematics.<br/> 
+I ~~love~~ hate javascript.<br/>
+Thats all.
 <!--
 **daniilraptanov/daniilraptanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
