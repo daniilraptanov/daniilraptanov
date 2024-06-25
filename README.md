@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-Student in NURE, currently learning computer science and mathematics.<br/> 
-I ~~love~~ hate javascript.<br/>
-Check out my repositories.<br/>
+Student in NURE, currently learning computer science and mathematics.<br/>
+My hobbies:
+- astronomy :waxing_crescent_moon:
+- photography :camera:
+- poetry :bookmark_tabs:
+- reading :blue_book:
+- d&d :dragon:
+- sports :runner:
+<br/>
+Check out my repositories!<br/>
 
 <!--
 **daniilraptanov/daniilraptanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
