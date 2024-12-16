@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-I'm a student of Kharkiv National University of Radio Electronics. I'm really fascinated by computer technologies. My main domain is web. Also I have interests in embedded area.
+I'm a student of Kharkiv National University of Radio Electronics.
+
+I'm really fascinated by computer technologies. My main domain is web.<br>
+Also I have interests in embedded area.
+
 Besides I appreciate hobbies without information technology, like analog photography, poetry, reading or table role-playing games.
-Currently I'm focused on such tech stacks: Python3 (Flask, SqlAlchemy, Alembic), Node.JS (Express, Sequelize), React.JS with Redux. But I'm convinced that technologies are not as important as approaches and right thinking.
+
+Currently I'm focused on such tech stacks: Python3 (Flask, SqlAlchemy, Alembic), Node.JS (Express, Sequelize), React.JS with Redux.<br>But I'm convinced that technologies are not as important as approaches and right thinking.
 
 
 <!--
