@@ -1,15 +1,9 @@
 ## Hi there 👋
 
-Student in NURE, currently learning computer science and mathematics.<br/>
-My hobbies:
-- astronomy :waxing_crescent_moon:
-- photography :camera:
-- poetry :bookmark_tabs:
-- reading :blue_book:
-- d&d :dragon:
-- sports :runner:
-<br/>
-Check out my repositories!<br/>
+I'm a student of Kharkiv National University of Radio Electronics. I'm really fascinated by computer technologies. My main domain is web. Also I have interests in embedded area.
+Besides I appreciate hobbies without information technology, like analog photography, poetry, reading or table role-playing games.
+Currently I'm focused on such tech stacks: Python3 (Flask, SqlAlchemy, Alembic), Node.JS (Express, Sequelize), React.JS with Redux. But I'm convinced that technologies are not as important as approaches and right thinking.
+
 
 <!--
 **daniilraptanov/daniilraptanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
