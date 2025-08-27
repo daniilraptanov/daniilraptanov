@@ -1,5 +1,3 @@
-## sofrware engineering
-
 I just a guy who really fascinated by computer technologies. My main domain is WEB, but I have interests in embedded area.
 Currently I studying in Kharkiv National University of Radio Electronics.
 
